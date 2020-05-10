@@ -16,8 +16,8 @@ MonoBehaviour:
   - m_From: '**ANY CAMERA**'
     m_To: RailCam
     m_Blend:
-      m_Style: 1
-      m_Time: 5
+      m_Style: 4
+      m_Time: 2.5
       m_CustomCurve:
         serializedVersion: 2
         m_Curve:
@@ -63,8 +63,8 @@ MonoBehaviour:
   - m_From: '**ANY CAMERA**'
     m_To: Move Cam
     m_Blend:
-      m_Style: 1
-      m_Time: 5
+      m_Style: 5
+      m_Time: 2.5
       m_CustomCurve:
         serializedVersion: 2
         m_Curve: []
@@ -74,8 +74,8 @@ MonoBehaviour:
   - m_From: '**ANY CAMERA**'
     m_To: FocusItemCam
     m_Blend:
-      m_Style: 1
-      m_Time: 5
+      m_Style: 5
+      m_Time: 2.5
       m_CustomCurve:
         serializedVersion: 2
         m_Curve: []
@@ -85,8 +85,8 @@ MonoBehaviour:
   - m_From: '**ANY CAMERA**'
     m_To: CM vcam2
     m_Blend:
-      m_Style: 1
-      m_Time: 5
+      m_Style: 5
+      m_Time: 2.5
       m_CustomCurve:
         serializedVersion: 2
         m_Curve: []
@@ -96,8 +96,8 @@ MonoBehaviour:
   - m_From: '**ANY CAMERA**'
     m_To: CM vcam3
     m_Blend:
-      m_Style: 1
-      m_Time: 5
+      m_Style: 5
+      m_Time: 2.5
       m_CustomCurve:
         serializedVersion: 2
         m_Curve: []
